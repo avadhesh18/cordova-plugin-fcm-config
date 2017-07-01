@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "817826399923",
+    "firebase_url": "https://lyricsnext-ddaf2.firebaseio.com",
+    "project_id": "lyricsnext-ddaf2",
+    "storage_bucket": "lyricsnext-ddaf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817826399923:android:020b119aa8da9ff1",
+        "android_client_info": {
+          "package_name": "com.indpage.lyricsnext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817826399923-5fdu9kr9u2sb6eff6napq7jjdclmtu56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHjvroRABOD9-RiauV-VCi4a8wjU_2FkU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
